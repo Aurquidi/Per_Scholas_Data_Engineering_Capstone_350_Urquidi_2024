@@ -1,0 +1,11 @@
+List of Figures
+
+Figure 3.1 Total Transactions, by Type
+Figure 3.1 Total_Transactions_by_Type_scaleadj
+Figure 3.2 Number of Customers per State
+Figure 3.2 Number of Customers per State, Choropleth
+Figure 3.3 Top 10 Customers by Total Transaction Value
+Figure 5.1 Application Acceptance Rates, Self Employed vs All
+Figure 5.2 Application Rejection Rate for Married Male Applicants
+Figure 5.3 Transaction Data for Top 3 Months
+Figure 5.4 Healthcare Transaction Value by Branch, (Top 5)
